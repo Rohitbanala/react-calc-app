@@ -1,0 +1,12 @@
+.numbpad {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  width: 250px;
+}
+
+.numbpad button {
+  padding: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}

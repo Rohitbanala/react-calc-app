@@ -1,0 +1,13 @@
+.operators {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  width: 250px;
+  margin-top: 20px;
+}
+
+.operators button {
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
